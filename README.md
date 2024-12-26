@@ -48,7 +48,7 @@ Here is an example of an output image:
 And here is a demo of the pixel art video conversion:
 
 <video width="320" height="240" controls>
-  <source src="pixel_art_demo.mp4" type="video/mp4">
+  <source src="pixel_art_output.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
