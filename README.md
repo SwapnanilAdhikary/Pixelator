@@ -28,7 +28,7 @@ This project is an Image to Pixel Art Generator that takes an input image and co
 1. Place the image you want to convert in the `input_images` directory.
 2. Run the script:
     ```bash
-    python pixelator.py --input input_images/your_image.png --output output_images/pixel_art.png --pixel_size 10
+    python art.py --input input_images/your_image.png --output output_images/pixel_art.png --pixel_size 10
     ```
     Replace `your_image.png` with the name of your image file and adjust the `--pixel_size` parameter as needed.
 
@@ -42,6 +42,3 @@ Here is an example of an output image:
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
